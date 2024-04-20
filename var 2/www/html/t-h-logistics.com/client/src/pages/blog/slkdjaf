@@ -1,0 +1,101 @@
+ {/* <style>
+                .block-in-loop .logo_from{display: none!important;}
+                .entry-header{position: relative;}
+                .logo_from{
+                    display: inline-block;
+                    margin-left: 10px;
+                }
+                /*.logo_from_hl a{display: inline-block;padding: 4px 10px;background: #0F111D;}
+                .logo_from_mc a{display: inline-block;padding: 4px 10px;background: #FCE045;}*/
+                // .logo_from_hl img{height: 12px;}
+                // .logo_from_mc img{height: 28px;position: relative;top: -2px;}
+                // @media (max-width: 768px){
+                //     .logo_from{
+                //         position: static;
+                //         margin-top: 10px;
+                //         margin-left: 0;
+                //     }
+                // }
+            // </style>  */}
+
+
+            <style>
+                .block-in-loop .logo_from{display: none!important;}
+                .entry-header{position: relative;}
+                .logo_from{
+                    display: inline-block;
+                    margin-left: 10px;
+                }
+                /*.logo_from_hl a{display: inline-block;padding: 4px 10px;background: #0F111D;}
+                .logo_from_mc a{display: inline-block;padding: 4px 10px;background: #FCE045;}*/
+                .logo_from_hl img{height: 12px;}
+                .logo_from_mc img{height: 28px;position: relative;top: -2px;}
+                @media (max-width: 768px){
+                    .logo_from{
+                        position: static;
+                        margin-top: 10px;
+                        margin-left: 0;
+                    }
+                }
+            </style>
+
+            <style>
+                .block-in-loop .logo_from{display: none!important;}
+                .entry-header{position: relative;}
+                .logo_from{
+                    display: inline-block;
+                    margin-left: 10px;
+                }
+                /*.logo_from_hl a{display: inline-block;padding: 4px 10px;background: #0F111D;}
+                .logo_from_mc a{display: inline-block;padding: 4px 10px;background: #FCE045;}*/
+                .logo_from_hl img{height: 12px;}
+                .logo_from_mc img{height: 28px;position: relative;top: -2px;}
+                @media (max-width: 768px){
+                    .logo_from{
+                        position: static;
+                        margin-top: 10px;
+                        margin-left: 0;
+                    }
+                }
+            </style>
+
+            <style>
+                .block-in-loop .logo_from{display: none!important;}
+                .entry-header{position: relative;}
+                .logo_from{
+                    display: inline-block;
+                    margin-left: 10px;
+                }
+                /*.logo_from_hl a{display: inline-block;padding: 4px 10px;background: #0F111D;}
+                .logo_from_mc a{display: inline-block;padding: 4px 10px;background: #FCE045;}*/
+                .logo_from_hl img{height: 12px;}
+                .logo_from_mc img{height: 28px;position: relative;top: -2px;}
+                @media (max-width: 768px){
+                    .logo_from{
+                        position: static;
+                        margin-top: 10px;
+                        margin-left: 0;
+                    }
+                }
+            </style>
+
+
+            <style>
+                .block-in-loop .logo_from{display: none!important;}
+                .entry-header{position: relative;}
+                .logo_from{
+                    display: inline-block;
+                    margin-left: 10px;
+                }
+                /*.logo_from_hl a{display: inline-block;padding: 4px 10px;background: #0F111D;}
+                .logo_from_mc a{display: inline-block;padding: 4px 10px;background: #FCE045;}*/
+                .logo_from_hl img{height: 12px;}
+                .logo_from_mc img{height: 28px;position: relative;top: -2px;}
+                @media (max-width: 768px){
+                    .logo_from{
+                        position: static;
+                        margin-top: 10px;
+                        margin-left: 0;
+                    }
+                }
+            </style>
